@@ -1,8 +1,0 @@
-2023-03-29 19:13:46 INFO  [main] top.testeru.Calculator.<init>(Calculator.java:47) -- 创建 计算器 
-2023-03-29 19:13:46 INFO  [main] top.testeru.BaseTest.beforeEach(BaseTest.java:73) -- 开始进行 字符串拼接 计算
-2023-03-29 19:13:46 INFO  [main] top.testeru.BaseTest.afterEach(BaseTest.java:110) -- 计算结果为Hello JUnit5
-2023-03-29 19:13:46 INFO  [main] top.testeru.Calculator.close(Calculator.java:66) -- 关闭 计算器 
-2023-03-29 19:14:34 INFO  [main] top.testeru.Calculator.<init>(Calculator.java:47) -- 创建 计算器 
-2023-03-29 19:14:34 INFO  [main] top.testeru.BaseTest.beforeEach(BaseTest.java:73) -- 开始进行 字符串拼接 计算
-2023-03-29 19:14:34 INFO  [main] top.testeru.BaseTest.afterEach(BaseTest.java:110) -- 计算结果为Hello JUnit5
-2023-03-29 19:14:34 INFO  [main] top.testeru.Calculator.close(Calculator.java:66) -- 关闭 计算器 
